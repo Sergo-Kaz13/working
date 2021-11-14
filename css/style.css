@@ -273,4 +273,8 @@ body {
 }
 .footer__text {
   margin-left: 30px;
+  transition: .28s;
+}
+.footer__text:hover {
+  opacity: .5;
 }
